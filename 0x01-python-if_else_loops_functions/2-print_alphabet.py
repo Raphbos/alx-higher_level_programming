@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for boy in "abcdefghijklmnopqrstuvwxyz":
-    print("{}".format(boy),end='')
+    print("{}".format(boy), end='')
